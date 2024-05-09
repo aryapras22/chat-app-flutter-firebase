@@ -41,3 +41,13 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# ingore android build folder
+/android/app/build
+
+# ignore firebase_options.dart
+/lib/firebase_options.dart
+
+#ignore android folder and ios folder
+/android
+/ios
