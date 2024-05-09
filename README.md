@@ -2,7 +2,8 @@
 
 ## Getting Started
 
-To using this you only need to set up your firebase CLI and firebase account.
+First run flutter create then,
+To using this you need to set up your firebase CLI and firebase account.
 
 Follow these instruction for more detailed how to set up firebase:
 
