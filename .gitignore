@@ -51,3 +51,6 @@ app.*.map.json
 #ignore android folder and ios folder
 /android
 /ios
+/macos
+/web
+/linux
